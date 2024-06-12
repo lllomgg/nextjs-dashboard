@@ -1,6 +1,6 @@
 import { GlobeAltIcon } from '@heroicons/react/24/outline';
 import { inter, lusitana } from '@/app/ui/fonts';
-console.log("确认 lusitana 是否正确导入",lusitana); // 确认 lusitana 是否正确导入
+// console.log("确认 lusitana 是否正确导入",lusitana); // 确认 lusitana 是否正确导入
 export default function AcmeLogo() {
   return (
     <div
